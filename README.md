@@ -6,10 +6,9 @@
 
 ## 📥 下載方式 (Downloads)
 
-請至本專案的 [**Releases 釋出頁面**](../../releases) 下載最新編譯好的 Windows 檔案：
+請至本專案的 [**Releases 釋出頁面**](../../releases) 下載最新編譯好的 Windows 獨立執行檔：
 
 - **`ticket_monitor.exe`**：單一獨立執行檔（免安裝 Python、免設定環境，直接雙擊執行）
-- **`ticket_monitor_windows_x64.zip`**：完整壓縮包（內含主程式、設定檔範本與說明文件）
 
 ---
 
@@ -34,7 +33,7 @@
 ## 🚀 快速上手使用步驟
 
 ### 步驟 1：下載並啟動
-1. 至 [Releases](../../releases) 下載 `ticket_monitor_windows_x64.zip` 並解壓縮（或直接下載 `ticket_monitor.exe`）。
+1. 至 [Releases](../../releases) 下載 `ticket_monitor.exe`。
 2. 雙擊執行 `ticket_monitor.exe`。
 3. 程式啟動後會開啟命令列黑窗輸出日誌，並自動在瀏覽器開啟控制台：`http://127.0.0.1:16899`。
 
